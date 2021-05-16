@@ -1,5 +1,7 @@
 # DART Programming
 
+
+
 ## INSTALLATION
 
 MACOS:
@@ -21,6 +23,8 @@ WINDOWS:
 - choco install dart-sdk
 - choco upgrade dart-sdk
 
+---
+
 ## Concepts
 
 - Concat String
@@ -33,3 +37,6 @@ WINDOWS:
 - Collection
 - Functions, Arrow Function, Anonymous Function
 - Classes
+- Exception Handling
+
+---
