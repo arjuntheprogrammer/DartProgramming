@@ -31,3 +31,4 @@ WINDOWS:
 - Null Aware Operator
 - Loops
 - Collection
+- Functions, Arrow Function, Anonymous Function
