@@ -32,3 +32,4 @@ WINDOWS:
 - Loops
 - Collection
 - Functions, Arrow Function, Anonymous Function
+- Classes
