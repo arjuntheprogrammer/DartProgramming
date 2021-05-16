@@ -28,3 +28,6 @@ WINDOWS:
 - Parse Values
 - Data Types
 - Const Variable
+- Null Aware Operator
+- Loops
+- Collection
